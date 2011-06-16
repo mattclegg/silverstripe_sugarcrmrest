@@ -1,1 +1,3 @@
-This repository contains the working code examples for the IBM DeveloperWorks article "Being RESTful with SugarCRM".
+This repository contains a working example of intergrating with the SugarCRM. It has some examples of how to setup seperate models -but this will automatically install a load of dummy values on /dev/build so dont obviously use this on your live site!
+
+It also includes the working code examples for the IBM DeveloperWorks article "Being RESTful with SugarCRM".
